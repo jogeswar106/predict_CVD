@@ -1,2 +1,3 @@
 # predict_casriovarcular
-ML Model  For CVD Prediction .
+ML Model  For CVD Prediction.
+Dataset used from https://www.kaggle.com/datasets/sulianova/cardiovascular-disease-dataset
